@@ -1,0 +1,14 @@
+D:\C#\Lesson01\Lab01_Ex02\bin\Debug\net8.0\Lab01_Ex02.exe
+D:\C#\Lesson01\Lab01_Ex02\bin\Debug\net8.0\Lab01_Ex02.deps.json
+D:\C#\Lesson01\Lab01_Ex02\bin\Debug\net8.0\Lab01_Ex02.runtimeconfig.json
+D:\C#\Lesson01\Lab01_Ex02\bin\Debug\net8.0\Lab01_Ex02.dll
+D:\C#\Lesson01\Lab01_Ex02\bin\Debug\net8.0\Lab01_Ex02.pdb
+D:\C#\Lesson01\Lab01_Ex02\obj\Debug\net8.0\Lab01_Ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lesson01\Lab01_Ex02\obj\Debug\net8.0\Lab01_Ex02.AssemblyInfoInputs.cache
+D:\C#\Lesson01\Lab01_Ex02\obj\Debug\net8.0\Lab01_Ex02.AssemblyInfo.cs
+D:\C#\Lesson01\Lab01_Ex02\obj\Debug\net8.0\Lab01_Ex02.csproj.CoreCompileInputs.cache
+D:\C#\Lesson01\Lab01_Ex02\obj\Debug\net8.0\Lab01_Ex02.dll
+D:\C#\Lesson01\Lab01_Ex02\obj\Debug\net8.0\refint\Lab01_Ex02.dll
+D:\C#\Lesson01\Lab01_Ex02\obj\Debug\net8.0\Lab01_Ex02.pdb
+D:\C#\Lesson01\Lab01_Ex02\obj\Debug\net8.0\Lab01_Ex02.genruntimeconfig.cache
+D:\C#\Lesson01\Lab01_Ex02\obj\Debug\net8.0\ref\Lab01_Ex02.dll
