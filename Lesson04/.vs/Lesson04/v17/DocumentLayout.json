@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF9FA87-4273-40DF-AF00-C00C61BFEB19}|Lesson04.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson04\\controllers\\peoplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF9FA87-4273-40DF-AF00-C00C61BFEB19}|Lesson04.csproj|solutionrelative:controllers\\peoplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF9FA87-4273-40DF-AF00-C00C61BFEB19}|Lesson04.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson04\\models\\datalocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF9FA87-4273-40DF-AF00-C00C61BFEB19}|Lesson04.csproj|solutionrelative:models\\datalocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF9FA87-4273-40DF-AF00-C00C61BFEB19}|Lesson04.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson04\\models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF9FA87-4273-40DF-AF00-C00C61BFEB19}|Lesson04.csproj|solutionrelative:models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeoplesController.cs",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson04\\Controllers\\PeoplesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PeoplesController.cs",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson04\\Controllers\\PeoplesController.cs",
+              "RelativeToolTip": "Controllers\\PeoplesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:03:08.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataLocal.cs",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson04\\Models\\DataLocal.cs",
+              "RelativeDocumentMoniker": "Models\\DataLocal.cs",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson04\\Models\\DataLocal.cs",
+              "RelativeToolTip": "Models\\DataLocal.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvz0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:01:52.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "People.cs",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson04\\Models\\People.cs",
+              "RelativeDocumentMoniker": "Models\\People.cs",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson04\\Models\\People.cs",
+              "RelativeToolTip": "Models\\People.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:49:52.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
