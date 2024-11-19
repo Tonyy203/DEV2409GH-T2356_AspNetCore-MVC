@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Session_06\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8B58457-9178-4528-9D76-CA3B3960424C}|Session_06.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\session_06\\session_06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B8B58457-9178-4528-9D76-CA3B3960424C}|Session_06.csproj|solutionrelative:session_06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8B58457-9178-4528-9D76-CA3B3960424C}|Session_06.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\session_06\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8B58457-9178-4528-9D76-CA3B3960424C}|Session_06.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Session_06",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Session_06\\Session_06.csproj",
+              "RelativeDocumentMoniker": "Session_06.csproj",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Session_06\\Session_06.csproj",
+              "RelativeToolTip": "Session_06.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T16:55:32.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Session_06\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
@@ -26,8 +43,7 @@
               "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA5wCAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T18:04:27.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T18:04:27.748Z"
             }
           ]
         }

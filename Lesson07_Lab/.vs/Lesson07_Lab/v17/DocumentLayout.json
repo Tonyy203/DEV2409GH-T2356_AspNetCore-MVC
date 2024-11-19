@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{455484BC-652E-4094-B889-E1061CE094EE}|..\\Lesson07_Assignment\\Lesson07_Assignment.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_assignment\\areas\\admins\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455484BC-652E-4094-B889-E1061CE094EE}|..\\Lesson07_Assignment\\Lesson07_Assignment.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_assignment\\areas\\admins\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455484BC-652E-4094-B889-E1061CE094EE}|..\\Lesson07_Assignment\\Lesson07_Assignment.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_assignment\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455484BC-652E-4094-B889-E1061CE094EE}|..\\Lesson07_Assignment\\Lesson07_Assignment.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_assignment\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455484BC-652E-4094-B889-E1061CE094EE}|..\\Lesson07_Assignment\\Lesson07_Assignment.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_assignment\\areas\\admins\\views\\shared\\admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455484BC-652E-4094-B889-E1061CE094EE}|..\\Lesson07_Assignment\\Lesson07_Assignment.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455484BC-652E-4094-B889-E1061CE094EE}|..\\Lesson07_Assignment\\Lesson07_Assignment.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_assignment\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455484BC-652E-4094-B889-E1061CE094EE}|..\\Lesson07_Assignment\\Lesson07_Assignment.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_assignment\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455484BC-652E-4094-B889-E1061CE094EE}|..\\Lesson07_Assignment\\Lesson07_Assignment.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_assignment\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F1F282-0C47-455F-BD79-06DE4CD07DEB}|Lesson07_Lab.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_lab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4F1F282-0C47-455F-BD79-06DE4CD07DEB}|Lesson07_Lab.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F1F282-0C47-455F-BD79-06DE4CD07DEB}|Lesson07_Lab.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_lab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4F1F282-0C47-455F-BD79-06DE4CD07DEB}|Lesson07_Lab.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F1F282-0C47-455F-BD79-06DE4CD07DEB}|Lesson07_Lab.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_lab\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4F1F282-0C47-455F-BD79-06DE4CD07DEB}|Lesson07_Lab.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F1F282-0C47-455F-BD79-06DE4CD07DEB}|Lesson07_Lab.csproj|d:\\dev2409gh-t2356_aspnetcore-mvc\\lesson07_lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4F1F282-0C47-455F-BD79-06DE4CD07DEB}|Lesson07_Lab.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Lesson07_Assignment\\Areas\\Admins\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "..\\Lesson07_Assignment\\Areas\\Admins\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T18:35:44.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "..\\Lesson07_Assignment\\Areas\\Admins\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "..\\Lesson07_Assignment\\Areas\\Admins\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:07:56.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lesson07_Assignment\\Program.cs",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Program.cs",
+              "RelativeToolTip": "..\\Lesson07_Assignment\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:55:12.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Lesson07_Assignment\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "..\\Lesson07_Assignment\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T17:53:34.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admins.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Views\\Shared\\Admins.cshtml",
+              "RelativeDocumentMoniker": "..\\Lesson07_Assignment\\Areas\\Admins\\Views\\Shared\\Admins.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Views\\Shared\\Admins.cshtml",
+              "RelativeToolTip": "..\\Lesson07_Assignment\\Areas\\Admins\\Views\\Shared\\Admins.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T17:37:31.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "..\\Lesson07_Assignment\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "..\\Lesson07_Assignment\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:51:18.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\Lesson07_Assignment\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\Lesson07_Assignment\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T17:49:30.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\Lesson07_Assignment\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\Lesson07_Assignment\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T17:45:14.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "..\\Lesson07_Assignment\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Assignment\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "..\\Lesson07_Assignment\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-18T17:36:13.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Lab\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Lab\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T17:11:39.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Lab\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Lab\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T17:30:15.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Lab\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Lab\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T17:11:08.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356_AspNetCore-MVC\\Lesson07_Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T16:59:49.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
