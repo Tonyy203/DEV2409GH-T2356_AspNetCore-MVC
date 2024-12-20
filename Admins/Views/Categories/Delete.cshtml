@@ -1,0 +1,66 @@
+﻿@model DevXuongMoc.Models.Category
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1 class="text-center mb-4">Xoá Danh Mục</h1>
+
+<h3 class="text-center text-danger">Bạn chắc chắn muốn xoá danh mục này?</h3>
+
+<div class="container">
+    <h4 class="mb-3">Thông tin danh mục</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Icon)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Icon)
+        </dd>
+
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.MateTitle)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.MateTitle)
+        </dd>
+
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Orders)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Orders)
+        </dd>
+
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Isdelete)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Isdelete)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <div class="d-flex justify-content-center">
+            <button type="submit" class="btn btn-danger btn-lg mr-2">Xoá</button>
+            <a asp-action="Index" class="btn btn-secondary btn-lg">Trở lại danh sách</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
