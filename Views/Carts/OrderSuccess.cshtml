@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "Đặt hàng thành công";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="alert alert-success" role="alert">
+    <h4 class="alert-heading">Thành công!</h4>
+    <p>@ViewBag.Message</p>
+    <hr>
+    <p class="mb-0">Cảm ơn bạn đã đặt hàng. Chúng tôi sẽ xử lý đơn hàng của bạn ngay!</p>
+</div>
+
+<a href="/Product" class="btn btn-primary">Tiếp tục mua sắm</a>
