@@ -1,0 +1,173 @@
+﻿@model DevXuongMoc.Models.Product
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admins/Views/Shared/Admin.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+
+<div>
+    <h4>Sản phẩm</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            Mã sản phẩm
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Cid)
+        </dd>
+        <dt class = "col-sm-2">
+            Mã loại sản phẩm
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Code)
+        </dd>
+        <dt class = "col-sm-2">
+            Tiêu đề
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            Mô tả 
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            Nội dung
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Content)
+        </dd>
+        <dt class = "col-sm-2">
+            Ảnh sản phẩm
+        </dt>
+        <dd class = "col-sm-10">
+                <img src="@Model.Image" alt="@Model.Title" width="100px" height="100px">
+          
+        </dd>
+        <dt class = "col-sm-2">
+            Tiêu đề phụ
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MetaTitle)
+        </dd>
+        <dt class = "col-sm-2">
+            Từ khoá phụ
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MetaKeyword)
+        </dd>
+        <dt class = "col-sm-2">
+            Mô tả phụ
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MetaDescription)
+        </dd>
+        <dt class = "col-sm-2">
+            Slug
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Slug)
+        </dd>
+        <dt class = "col-sm-2">
+            Giá gốc
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PriceOld)
+        </dd>
+        <dt class = "col-sm-2">
+            Giá mới
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PriceNew)
+        </dd>
+        <dt class = "col-sm-2">
+            Kích thước
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Size)
+        </dd>
+        <dt class = "col-sm-2">
+            Lượt xem
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Views)
+        </dd>
+        <dt class = "col-sm-2">
+            Lượt thích
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Likes)
+        </dd>
+        <dt class = "col-sm-2">
+            Số sao
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Star)
+        </dd>
+        <dt class = "col-sm-2">
+            Nhà
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Home)
+        </dd>
+        <dt class = "col-sm-2">
+            Nổi bật
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Hot)
+        </dd>
+        <dt class = "col-sm-2">
+            Ngày tạo
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CreatedDate)
+        </dd>
+        <dt class = "col-sm-2">
+            Ngày cập nhật
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.UpdatedDate)
+        </dd>
+        <dt class = "col-sm-2">
+            Tài khoản tạo
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AdminCreated)
+        </dd>
+        <dt class = "col-sm-2">
+            Tài khoản cập nhật
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AdminUpdated)
+        </dd>
+        <dt class = "col-sm-2">
+            Trạng thái
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt class = "col-sm-2">
+            ISDELETE
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Isdelete)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-danger">sửa</a> 
+    <a asp-action="Index" class="btn btn-info">Quay lại danh sách</a>
+</div>
+</body>
+</html>

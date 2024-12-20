@@ -1,0 +1,88 @@
+﻿@model X.PagedList.IPagedList<DevXuongMoc.Models.News>
+@using X.PagedList.Mvc.Core;
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admins/Views/Shared/Admin.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+</head>
+<body>
+    <div class="row">
+        <form action="" method="get" class="form-inline">
+            <div class="form-group">
+                <label class="sr-only" for="keyword">Tìm theo tài khoản</label>
+                <input class="form-control" name="name" id="keyword" placeholder="Nhập tên cần tìm" />
+            </div>
+            <button type="submit" class="btn btn-default mr-1"><i class="fas fa-search"></i></button>
+            <a asp-action="Create" class="btn btn-primary"><i class="fas fa-plus"></i>Thêm mới</a>
+        </form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tiêu đề
+            </th>
+            <th>
+                Hình ảnh
+            </th>
+            <th>
+                Ngày tạo
+            </th>
+            <th>
+                Ngày cập nhật
+            </th>
+            <th>
+                Tài khoản tạo
+            </th>
+            <th>
+                Tài khoản cập nhật
+            </th>
+            <th>Tác vụ</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdminCreated)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdminUpdated)
+            </td>
+            <td>
+                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">Sửa</a> 
+                <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id">Xem chi tiết</a> 
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Xoá</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+        <hr />
+        @Html.PagedListPager(Model,page=>Url.Action("Index",new{page=page}),new
+        X.PagedList.Web.Common.PagedListRenderOptions{
+
+        LiElementClasses = new string[] {"page-item"},
+        PageClasses = new string[] {"page-link"}
+        })
+    </div>
+</body>
+</html>
